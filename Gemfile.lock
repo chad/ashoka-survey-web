@@ -97,7 +97,7 @@ GEM
     erubis (2.7.0)
     escape (0.0.4)
     eventmachine (1.0.3)
-    excon (0.22.1)
+    excon (0.76.0)
     execjs (1.4.0)
       multi_json (~> 1.0)
     ey_config (0.0.6)
