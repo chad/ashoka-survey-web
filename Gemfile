@@ -16,7 +16,7 @@ gem 'draper', "~> 1.2.1"
 gem 'i18n-js', '~> 2.1.2'
 gem 'airbrake', '~> 3.1.6'
 gem 'dalli', '~> 2.3.0'
-gem "geocoder", '~> 1.1.8'
+gem "geocoder", '~> 1.6.1'
 gem 'gmaps4rails', '~> 1.5.6'
 gem 'axlsx', '~> 1.3.4'
 gem 'carrierwave', '~> 0.7.1'
